@@ -101,8 +101,8 @@ I am a passionate **Full Stack Developer** and **Backend Engineer** currently in
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsbahSaleem&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsbahSaleem&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usbahawan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usbahawan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ I am a passionate **Full Stack Developer** and **Backend Engineer** currently in
 <p align="left">
   <a href="mailto:awanusbah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/usbah-saleem"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://usbahsaleem.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://usbahawan.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 
 <p align="center">
