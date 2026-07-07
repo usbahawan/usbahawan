@@ -1,6 +1,6 @@
 # Usbah Saleem
 
-I'm Usbah Saleem, a Mobile App Developer (Flutter) and Cross-Platform Engineer building production-grade Android and iOS applications with client-side AI integration. Currently a BS Computer Science student (7th semester) at COMSATS University Islamabad. I'm also comfortable working full-stack when a project calls for it. React, Next.js, and Node.js for web-facing features and backend services.
+I'm Usbah Saleem, a Mobile App Developer (Flutter) and Cross-Platform Engineer building production-grade Android and iOS applications with client-side AI integration. Currently a BS Computer Science student (7th semester) at COMSATS University Islamabad. I'm also comfortable working full-stack when a project calls for it, using React, Next.js, and Node.js for web-facing features and backend services.
 
 Currently doing parallel engineering internships: Junior Mobile Application Engineer at DevHawks and Website Development Intern at SafeX Solutions.
 
