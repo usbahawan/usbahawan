@@ -25,4 +25,7 @@ Currently doing parallel engineering internships: Junior Mobile Application Engi
 
 ### Connect
 
-[Portfolio](https://usbah-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/usbah-saleem-315a0b327/) &nbsp;·&nbsp; [dev.to](https://dev.to/usbahawan) &nbsp;·&nbsp; [Email](mailto:awanusbah@gmail.com)
+📧 **Email:** [awanusbah@gmail.com](mailto:awanusbah@gmail.com)  
+🌐 **Portfolio:** [usbah-portfolio.vercel.app](https://usbah-portfolio.vercel.app/)  
+🔗 **LinkedIn:** [linkedin.com/in/usbah-saleem-315a0b327](https://linkedin.com/in/usbah-saleem-315a0b327/)  
+📸 **Instagram:** [@docto.dev](https://www.instagram.com/docto.dev?igsh=MWs4eWxubjN2eGxsOA%3D%3D&utm_source=qr)
